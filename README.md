@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I’m Ron Avis
 
-<!--
-**ronavis/ronavis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Business Intelligence Engineer and workflow-minded builder with a background in enterprise reporting, SQL development, automation, and operational systems.
 
-Here are some ideas to get you started:
+Lately, most of my curiosity has gone into AI-assisted development: how tools like Cursor, Copilot, Codex, and ChatGPT change the way software gets planned, documented, built, and maintained. I’m especially interested in context management, continuity, trust, and the practical workflows that help humans and AI collaborate well on real projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+On GitHub, I’m using public repos to make that interest concrete. `bitgeek-project-template` is a docs-first project template for versioning, ticketing, contribution standards, and AI-friendly project structure. `git-game` is a small Mission Control-themed prototype that turns Git choices into a story-driven learning experience.
+
+Current interests:
+- AI-assisted development workflows
+- developer tooling and documentation systems
+- workflow automation and operational clarity
+- project structure for long-running software work
+- small experiments with strong product framing
+
+If you’re here from a hiring conversation, the fastest path is: profile README → pinned repos → repo READMEs. I’m especially interested in roles around AI workflows, developer productivity, technical systems, and thoughtful tooling.
