@@ -13,4 +13,8 @@ Current interests:
 - project structure for long-running software work
 - small experiments with strong product framing
 
+## Projects
+
+- **Home Video Club** – A paid iOS app that turns a personal Plex library into a shared video-store experience. [Available on the App Store](https://apps.apple.com/us/app/home-video-club/id6755478406)
+
 If you’re here from a hiring conversation, the fastest path is: profile README → pinned repos → repo READMEs. I’m especially interested in roles around AI workflows, developer productivity, technical systems, and thoughtful tooling.
